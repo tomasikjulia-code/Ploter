@@ -36,7 +36,7 @@ A custom-built, 2-axis CNC Pen Plotter designed for precision drawing and sketch
 ---
 
 <p align="center">
-  <img src="zdjecia/zdjecia plotera.jfif" width="600" title="Mechanical Construction">
+  <img src="zdjecia/zdjęcia plotera.jfif" width="600" title="Mechanical Construction">
 </p>
 
 
