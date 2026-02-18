@@ -28,7 +28,7 @@ A custom-built, 2-axis CNC Pen Plotter designed for precision drawing and sketch
 
 ## How It Works
 
-1.  **G-Code Generation:** Create designs in Inkscape or LaserWeb and export them as `.gcode` or `.nc` files.
+1.  **G-Code Generation:** Create designs in Inkscape or LaserWeb and export them as `.txt` files.
 2.  **Offline Printing:** Save the files onto a Micro SD card and insert it into the plotter's control box.
 3.  **Interface:** Use the onboard buttons and OLED menu to navigate the SD card and select the file you wish to draw.
 4.  **Execution:** The STM32 parses the G-code and coordinates the stepper motors and the pen-lift servo.
