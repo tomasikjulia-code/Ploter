@@ -35,13 +35,8 @@ A custom-built, 2-axis CNC Pen Plotter designed for precision drawing and sketch
 
 ---
 
-## Gallery
+<p align="center">
+  <img src="zdjecia/zdjecia plotera.jfif" width="600" title="Mechanical Construction">
+</p>
 
-### Full Assembly
-![Plotter Overview](zdjęcia%20plotera.jfif)
-*The plotter during a test run drawing a house.*
-
-### Electronics Detail
-![Electronics](zdjęcie%20elektroniki.jfif)
-*The custom control board featuring the STM32, SD module, and motor wiring.*
 
